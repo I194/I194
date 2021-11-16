@@ -3,7 +3,7 @@
 - I'm currently working on the CRM system for one interesting commercial project. Our team is planning to release this project by the December 1!
 - My global project for last two years is the PMTools - it's an app for paleomagnetism data analysis and visualization. You can find the beta version of this app [here](https://github.com/I194/PMTools).
 - Last months I'm learning React/Redux/TypeScript stack. The first outcome of this was this [project](https://github.com/I194/ya-react-burger).
-- It's also important for me to constantly learn some new things, especially technologies (libraries, frameworks, languages and programs) and to improve code quality. For example, I'm currently practicing React-Redux, TypeScript and SCSS stack in my new small [pet-project](https://github.com/I194/paleomagnetic-converter), and then I'm planning to use this project in new version (React Native version) of [PMTools](https://github.com/I194/PMTools).  
+- It's also important for me to constantly learn some new things, especially technologies (libraries, frameworks, languages and programs) and to improve code quality. For example, I'm currently practicing React-Redux, TypeScript and SCSS stack in my new small [pet project](https://github.com/I194/paleomagnetic-converter), and then I'm planning to use this project in new version (React Native version) of [PMTools](https://github.com/I194/PMTools).  
 - And, of course, I will always be pleased to work on an interesting project with interesting people!
 
 My technology stack: 
