@@ -1,6 +1,6 @@
 ### Hello there
 
-- I'm currently working on the CRM system for one interesting commercial project, which we planning to release by the end of the February 2022.
+- I'm currently working on the CRM system for one interesting commercial project, it is the final stages of development.
 - Last year I'm learning React/Redux/TypeScript stack. The very first outcome of this was this [project](https://github.com/I194/ya-react-burger).
 - My global project for last two years is the PMTools - it's an app for paleomagnetism data analysis and visualization. You can find the beta version of this app [here](https://github.com/I194/PMTools).
 - And, of course, it's important for me to constantly learn some new things, especially technologies (libraries, frameworks, languages and programs). For example, I'm currently practicing React-Redux/TypeScript/SCSS/SVG stack in my small projects ([paleomagnetic-conveter](https://github.com/I194/paleomagnetic-converter), and [paleomagnetic-data-renderer](https://github.com/I194/paleomagnetic-data-renderer)). And these porjects I'm planning to use in the new version of [PMTools](https://github.com/I194/PMTools_2.0).
