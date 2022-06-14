@@ -12,7 +12,7 @@ More specific personal info about me in [my LinkedIn](https://www.linkedin.com/i
 
 #### My last global open-source/pet project
 
-It's named PMTools. I created it in last two years - it's an app for paleomagnetism data analysis and visualization. App in production and active use by scientists from May 2022. Here  it's [repo](https://github.com/I194/PMTools_2.0) and [website](https://pmtools.ru/). You can also find the beta version of this app [here](https://github.com/I194/PMTools).
+It's named PMTools. I created it in last two years and it's an app for paleomagnetic data analysis and visualization. App in production and in active use by scientists from May 2022. Here  PMTools [repo](https://github.com/I194/PMTools_2.0) and [website](https://pmtools.ru/). You can also find the beta version of this app [here](https://github.com/I194/PMTools).
 
 #### My technology stack: 
 
