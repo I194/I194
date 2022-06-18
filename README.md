@@ -1,6 +1,6 @@
 ## Hello there
 
-### I'm Frontend Developer. Currently working. Actively self-studying. 
+### I'm Frontend Developer. Currently working (and open for interesting projects). Actively self-studying. 
 
 #### Short info about me:
 * **Only TypeScript**. 
