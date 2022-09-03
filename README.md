@@ -1,12 +1,14 @@
 ## Hello there
 
-### I'm Frontend Developer. Currently working (and open for interesting projects). Actively self-studying. 
+### I'm Frontend Developer
 
-#### Short info about me:
-* **Only TypeScript**. 
-* Usually write in React/Redux stack. 
-* Admire SVG and ThreeJS. 
-* Found ECMAScript documentation interesting. 
+#### Short technical info about me:
+* JavaScript 3 years
+* TypeScript 1 year
+* React, Redux 1 year
+* Modern CSS and HTML, also worked with SVG (created interactive graphs, animations, unique UI-elements)
+* I think it's interesting to read some low-level documentations, e.g. ECMAScript documentation
+* Also familiar with Python 
 
 More specific personal info about me in [my LinkedIn](https://www.linkedin.com/in/i1948374/). 
 
