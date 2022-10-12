@@ -3,12 +3,12 @@
 ### I'm Frontend Developer
 
 #### Short technical info about me:
-* JavaScript 3 years
-* TypeScript 1 year
-* React, Redux 1 year
-* Modern CSS and HTML, also worked with SVG (created interactive graphs, animations, unique UI-elements)
+* JavaScript 3+ years
+* TypeScript 1+ year
+* React, Redux 1+ year
+* Modern CSS and HTML, also worked a lot with SVG (created interactive graphs, animations, unique UI-elements)
 * I think it's interesting to read some low-level documentations, e.g. ECMAScript documentation
-* Also familiar with Python 
+* Also familiar with tools/frameworks/languages like Rive, Highcharts, Electron, Tauri, Python 3, Rust,...
 
 More specific personal info about me in [my LinkedIn](https://www.linkedin.com/in/i1948374/). 
 
